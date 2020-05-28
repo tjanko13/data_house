@@ -2,7 +2,6 @@ def mean(x):
     x_mean = sum(x) / len(x)
     return x_mean
 
-
 def error(n, lst):
     lst = list(lst)
     error_lst = []
